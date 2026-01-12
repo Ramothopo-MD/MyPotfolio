@@ -5,11 +5,17 @@ This repository contains my personal developer portfolio, built to showcase my t
 🚀 Features
 
 ✔ Personal profile and professional introduction
+
 ✔ Skills and technologies overview
+
 ✔ Project showcase with detailed descriptions
+
 ✔ Education and experience section
+
 ✔ Contact form and contact information
+
 ✔ Fully responsive design (desktop & mobile)
+
 
 🛠️ Technologies Used
 🎨 Frontend
